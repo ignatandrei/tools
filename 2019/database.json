@@ -1,0 +1,28 @@
+[
+    {
+        "name": "VS2019",
+        "link": "https://visualstudio.microsoft.com/",
+        "presentations":[
+            "VS2019"
+        ],
+        "video":"https://www.youtube.com/watch?v=NbpwlhYdi5I&t=3s"
+    },
+    {
+        "name": "Docker",
+        "link": "https://www.docker.com/products/docker-desktop",
+        "presentations":[
+            "Docker"
+        ],
+        "video":""
+    },
+    {
+        "name": "dotnetWatch",
+        "link": "https://docs.microsoft.com/en-us/aspnet/core/tutorials/dotnet-watch",
+        "presentations":[
+            "Docker"
+        ],
+        "video":""
+    }
+
+]
+
