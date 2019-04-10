@@ -27,4 +27,6 @@ Docker Compose: https://docs.docker.com/compose/gettingstarted/
 
 Dotnet Watch: https://docs.microsoft.com/en-us/aspnet/core/tutorials/dotnet-watch?view=aspnetcore-2.2
 
+My Docker repo: https://hub.docker.com/u/ignatandrei
+
 
