@@ -24,4 +24,10 @@ Dotnet Watch: https://docs.microsoft.com/en-us/aspnet/core/tutorials/dotnet-watc
 
 My Docker repo: https://hub.docker.com/u/ignatandrei
 
+Simple CI for .NET Core:
+https://github.com/ignatandrei/Presentations/tree/master/2019/shorts/DockerForDevs/TestApp/testNetCore
+
+Stankins CI with SqlServer and Jenkins:
+https://github.com/ignatandrei/stankins/tree/master/stankinsv2
+
 
