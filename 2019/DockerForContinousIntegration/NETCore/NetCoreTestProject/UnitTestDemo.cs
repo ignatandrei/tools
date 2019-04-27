@@ -23,22 +23,22 @@ namespace NetCoreTestProject
             Assert.Equal(res, result);
             #endregion
         }
-        [Trait("All", "Data")]
-        [Theory(DisplayName = "Divide by 0")]
-        [InlineData(15, 0)]
-        public async Task TestDivide0(int x, int y)
-        {
-            #region arrange
-            var imp = new MyImportantClass();
-            #endregion
-            #region act
+        //[Trait("All", "Data")]
+        //[Theory(DisplayName = "Divide by 0")]
+        //[InlineData(15, 0)]
+        //public async Task TestDivide0(int x, int y)
+        //{
+        //    #region arrange
+        //    var imp = new MyImportantClass();
+        //    #endregion
+        //    #region act
 
-            var ex = await Record.ExceptionAsync(() => imp.Divide(x, y));
-            #endregion
-            #region assert
-            Assert.NotNull(ex);
-            Assert.IsType<ArgumentException>(ex);
-            #endregion
-        }
+        //    var ex = await Record.ExceptionAsync(() => imp.Divide(x, y));
+        //    #endregion
+        //    #region assert
+        //    Assert.NotNull(ex);
+        //    Assert.IsType<ArgumentException>(ex);
+        //    #endregion
+        //}
     }
 }

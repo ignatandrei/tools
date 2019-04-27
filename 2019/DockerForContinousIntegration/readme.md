@@ -1,33 +1,30 @@
-# Docker
-## What is docker
+# Code Coverage with Docker and dotnet tools: coverlet.console and reportgenerator
+## Code Coverage 
 
-Please follow my previous 5Minutes about Docker , 
+Simply put, how much of your code is automatically tested by tests ;-)
 
 
-## Sample Test  With .NET Core
+## coverlet.console
 
-https://github.com/ignatandrei/Presentations/tree/master/2019/shorts/DockerForDevs/TestApp/testNetCore
+https://github.com/tonerdo/coverlet
 
-## Integration Test with .NET Core, SqlServer , Jenkins, Cachet
+## reportgenerator
 
-https://github.com/ignatandrei/stankins/tree/master/stankinsv2
+https://github.com/danielpalme/ReportGenerator
 
-## Links
+## Demo
 
 https://www.docker.com/
 
 Docker CLI : https://docs.docker.com/engine/reference/commandline/cli/
 
-Docker Compose: https://docs.docker.com/compose/gettingstarted/
+https://github.com/tonerdo/coverlet
 
-Dotnet Watch: https://docs.microsoft.com/en-us/aspnet/core/tutorials/dotnet-watch?view=aspnetcore-2.2
+https://github.com/danielpalme/ReportGenerator
 
-My Docker repo: https://hub.docker.com/u/ignatandrei
 
 Simple CI for .NET Core:
 https://github.com/ignatandrei/Presentations/tree/master/2019/shorts/DockerForDevs/TestApp/testNetCore
 
-Stankins CI with SqlServer and Jenkins:
-https://github.com/ignatandrei/stankins/tree/master/stankinsv2
 
 
